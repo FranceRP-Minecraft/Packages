@@ -1,3 +1,9 @@
 {
-    
+    "servers": [
+        {
+            "name": "FranceRP",
+            "uri": "server.francerp-minecraft.fr:25501",
+            "default": true
+        }
+    ]
 }
